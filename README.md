@@ -1,1 +1,2 @@
 # miniproject
+SIMPLE WEBITE USING FLASK
